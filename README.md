@@ -1,2 +1,2 @@
 # Information-Systems-Management
-Research essays
+Individual Research essay
